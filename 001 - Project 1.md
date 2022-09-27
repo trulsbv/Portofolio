@@ -1,6 +1,8 @@
 <h3>Project 1</h3>
 
-Link: https://github.uio.no/trulsbv/Portofolio/blob/main/project_1.zip
+Fall 2021
+
+Link: https://github.com/trulsbv/Portofolio/blob/main/project_1.zip
 
 Run "hovedprogram.py" to start the program
 

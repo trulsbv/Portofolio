@@ -23,6 +23,8 @@ Here we see that questions can be added with photos
 
 At the end of the quiz you are given a score and the correct answer to the questions - as well as your answer.
 
+The quiz is coded in JavaScript, CSS and HTML
+
 While creating this quiz I encountered multiple obsticles - the first one was how to save the questions. I was at the first semester at the University of Oslo - and I had yet to begin at a "non-introductionary" course. I decided that the way I was going to save all the information was with an array. So all the questions are buildt up with a large array, where each element is another array like so: ["", ["", "", "", ""], " ", 0]. 
 Index 0 is the quesion itself. 
 Index 1 is a list with the four alternative answers. 

@@ -1,5 +1,5 @@
-<h3>Project 2 - Quiz</h3>
-Link: https://github.uio.no/trulsbv/Portofolio/blob/main/project_2_Quiz.zip
+<h3>Project 2, Quiz - Fall 2021</h3>
+Link: https://github.com/trulsbv/Portofolio/blob/main/project_2_Quiz.zip
 
 Run "hovedprogram" to start the program
 

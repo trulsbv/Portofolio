@@ -1,6 +1,4 @@
-<h3>Project 1</h3>
-
-Fall 2021
+<h3>Project 1</h3> - Fall 2021
 
 Link: https://github.com/trulsbv/Portofolio/blob/main/project_1.zip
 
